@@ -1,0 +1,6 @@
+[submodule "stoutgatv2"]
+	path = stoutgatv2
+	url = https://github.com/vattern/stoutgatv2.git
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/foostan/kbd.git
